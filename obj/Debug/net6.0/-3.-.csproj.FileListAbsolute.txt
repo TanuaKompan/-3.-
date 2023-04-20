@@ -1,0 +1,15 @@
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/bin/Debug/net6.0/-3.-
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/bin/Debug/net6.0/-3.-.deps.json
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/bin/Debug/net6.0/-3.-.runtimeconfig.json
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/bin/Debug/net6.0/-3.-.dll
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/bin/Debug/net6.0/-3.-.pdb
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.csproj.AssemblyReference.cache
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.AssemblyInfoInputs.cache
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.AssemblyInfo.cs
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.csproj.CoreCompileInputs.cache
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.dll
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/refint/-3.-.dll
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.pdb
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/-3.-.genruntimeconfig.cache
+/Users/tatanahadzaeva/Desktop/дз3/-3.-/obj/Debug/net6.0/ref/-3.-.dll
